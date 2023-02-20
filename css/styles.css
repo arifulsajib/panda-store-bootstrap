@@ -1,0 +1,19 @@
+.bg-lightpink {
+  background-color: #fceae8;
+}
+
+.btn-pinky {
+  padding: 9px 25px;
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  color: #fff;
+  border-radius: 8px;
+  font-weight: 700;
+}
+
+.text-pinky {
+  color: #ff136f;
+}
+
+#subscribe {
+  height: 300px;
+}
